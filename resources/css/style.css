@@ -51,6 +51,6 @@ body {
 
 cite {
     color: gray;
-
-    margin-right: 0px;
+    text-align: right;
+    /* margin-right: 0px; */
 }
