@@ -13,7 +13,7 @@ a {
     color: aqua;
 }
 
-body {
+section{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
@@ -49,8 +49,8 @@ body {
     font-size: 21px;
 }
 
-cite {
+.cite {
     color: gray;
-    text-align: right;
-    /* margin-right: 0px; */
+     text-align: right;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
